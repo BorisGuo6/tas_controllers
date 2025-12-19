@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/crslab/catkin_graspflow/src/robots/tas_controllers/data/venv"
+set -gx VIRTUAL_ENV "/home/clear/catkin_ws/src/robots/tas_controllers/data/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
